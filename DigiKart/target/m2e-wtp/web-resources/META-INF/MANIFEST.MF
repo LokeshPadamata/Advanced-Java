@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: bhargav
+Build-Jdk: 17.0.6
+Implementation-Title: DigiKart Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ecommerce.digikart
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
